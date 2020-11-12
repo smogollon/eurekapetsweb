@@ -1,0 +1,52 @@
+
+$ancho:720px;
+$blue:#4285F4;
+$green: #33d374;
+
+
+#midiv{
+	background-color: $blue;
+	width: $ancho/3; /* ancho de 360 */
+}
+
+#midiv2{
+	background-color: $green;
+	width: ($ancho/2)-50; /* ancho de 310 */
+}
+
+$title-font: normal 24px/1.5 'Open Sans', sans-serif;
+$cool-red: #F44336;
+$box-shadow-bottom-only: 0 2px 1px 0 rgba(0, 0, 0, 0.2);
+/* SCSS*/
+h1.title {
+ 	font: $title-font; /* Uso la variable*/
+ color: $cool-red;
+}
+
+div.container {
+ color: $cool-red;
+ background: #fff;
+ width: 100%;
+ box-shadow: $box-shadow-bottom-only;
+}
+
+/* variables colores*/
+
+$amarillo: #F1D731;
+$grisTexto: #5A5A5A;
+$fondoCuadros: #2C2B26;
+$blanco: #fff;
+
+h1{
+	color: $blanco !important; 
+}
+
+h2{
+	color: $grisTexto;
+}
+
+p{
+	color: $grisTexto;
+}
+
+

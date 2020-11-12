@@ -1,0 +1,31 @@
+/*#midiv {
+  background-color: #4285F4;
+  width: 240px;
+  /* ancho de 360 */ }
+
+/*#midiv2 {
+  background-color: #33d374;
+  width: 310px;
+  /* ancho de 310 */ }
+
+/* SCSS*/
+/*h1.title {
+  font: normal 24px/1.5 "Open Sans", sans-serif;
+  /* Uso la variable*/
+  /*color: #F44336; }
+
+/*div.container {
+  color: #F44336;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.2); }
+
+ variables colores
+h1 {
+  color: #fff !important; }
+
+h2 {
+  color: #5A5A5A; }
+
+p {
+  color: #5A5A5A; }*/
